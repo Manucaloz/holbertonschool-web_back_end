@@ -1,0 +1,1 @@
+Este repositorio contiene informacion para implementar la paginación en aplicaciones web.
